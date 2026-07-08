@@ -2,4 +2,4 @@ fastapi
 uvicorn
 groq
 gTTS
-python-multipart
+pydub
